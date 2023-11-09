@@ -1,1 +1,1 @@
-module cache
+module github.com/TumantaevBaiaman/cache
